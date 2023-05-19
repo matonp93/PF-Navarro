@@ -42,4 +42,7 @@
         color: $golden-brown;
         margin-bottom: 15px;
     }
+    .insta{
+    &img{background-color: $golden-brown;} 
+    }
 }
