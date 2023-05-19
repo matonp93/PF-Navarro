@@ -280,7 +280,7 @@ header {
 
 /* ESTILO GALERIA */
 .cuerpogaleria1 {
-  background-image: url(/img/presentacion2.jpg);
+  background-image: url(../img/presentacion2.jpg);
   color: #a47005;
   background-attachment: fixed;
   background-size: cover;
